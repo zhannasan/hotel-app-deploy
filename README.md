@@ -1,3 +1,3 @@
 # hotel-app-deploy
-done!
+done! (works on local, has a problem on heroku. ask Rossi)
 https://spring-mvc-hotel-app.herokuapp.com/
